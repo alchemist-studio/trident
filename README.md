@@ -1,5 +1,7 @@
 # Trident
 
+[View the website](https://alchemist-studio.github.io/trident/)
+
 A minimal, single-page website for Trident, based on sketch 16 of the Current theme.
 
 The small color controls in the header switch between **Cyan** (the default), **Petrol**, and **Ice**, with a 600 ms transition. Keyboard users can tab to the controls and use the arrow, Home, and End keys. Reduced-motion preferences are respected.
